@@ -1,0 +1,11 @@
+Description 
+
+Name: Forest Chase
+
+Genres: 2D platformer, sidescroller, endless runner, survival.
+
+A sudden rain of fire is running amok the forest and you the squirrel protagonist is running for dear life. Run, Dodge and jump away from the raining fire and collect huge water droplets to aid your survival. 
+An Endless Runner is characterized as an action game, linear in design with no end, without pauses or breaks for rest and no stages or changing levels. It has one continuous level. 
+The longer your survive the higher your score count and collecting the water droplets increases your score count further. Game controls consists of left and right arrow keys to move horizontally and space bar to jump vertically. 
+When the character jumps there is hang time, where you're able to change direction in air which is required in other to avoid the fire obstacles. Like gravity in real life, the character falling accelerates towards the ground. 
+The  game consists of a main menu screen, game and the game over screen which appears when the character runs out of lives.

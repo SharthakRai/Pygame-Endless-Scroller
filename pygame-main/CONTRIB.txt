@@ -1,0 +1,28 @@
+
+
+Sharthak Raj Rai, 141341886
+
+	- Coded character class
+		○ Character Animation
+		○ Character Movement
+		○ Character collision
+		○ Coded in sync with group member's code (debugging) 
+	- Debugging background scrolling code error
+	- Optimising the performance of the game
+
+	- Enforced tools such as Trello to allocate tasks
+	  Led the game design decisions
+
+Code inspiration
+- Character movement, collision, animation: https://github.com/russs123/Platformer
+	Inspiration to use the player() class code
+	My own modifications and additions to the code to suit our needs for the game
+
+- Jumping debugging: https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/jumping/
+		   - https://stackoverflow.com/questions/51460626/how-to-make-an-object-jump-in-pygame
+	Fixed the issue with infinite jump
+	Character Idle animation issue
+
+- Side scroller movement + collision: https://www.techwithtim.net/tutorials/game-development-with-python/side-scroller-pygame/collision/
+	character off camera boundary issue
+	floor collision 
